@@ -1,4 +1,4 @@
-# SourceCred Template Instance
+# NEAR Experimental SourceCred Instance
 
 This repository contains a template for running a SourceCred instance.
 
